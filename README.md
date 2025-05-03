@@ -5,10 +5,10 @@
   <p style="color: #fff;">I’m ZORRO — a code-slinger in this dystopian digital realm. I hack, I build, I destroy... all in the name of innovation.</p>
 
   <!-- Neon Avatar -->
-  <img src="https://i.ibb.co/your-new-link/cyberpunk-avatar.jpg" alt="Cyberpunk Avatar" width="200" style="border: 3px solid #0ff; border-radius: 50%; box-shadow: 0 0 15px #0ff;">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/280dd4105648537.5f7dbf28b12f1.jpg" alt="Cyberpunk Avatar" width="200" style="border: 3px solid #0ff; border-radius: 50%; box-shadow: 0 0 15px #0ff;">
 
   <!-- Animated Neon Text (Using GIF) -->
-  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nWne/giphy.gif" alt="Neon Animation" width="300">
+  <img src="https://s-media-cache-ak0.pinimg.com/originals/65/4d/94/654d946e7b573c0b3cc9f91cc276326d.gif" alt="Neon Animation" width="300">
   <h3 style="color: #0ff; text-shadow: 0 0 5px #0ff;">💾 Systems Online...</h3>
 
   <!-- Stats and Tools -->
@@ -17,8 +17,8 @@
   <p style="color: #fff;">📡 Contact: <a href="mailto:zorro@neon-grid.net" style="color: #ff00ff;">zorro@neon-grid.net</a></p>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zorro-coder&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zorro-coder&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" alt="GitHub Stats">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJSkUp2au9Bllx7ne2eOcUNHxqTBmcvBkR2w&s" alt="GitHub Streak">
 
   <!-- Socials -->
   <p style="color: #fff;">🌃 Connect in the Shadows:</p>
