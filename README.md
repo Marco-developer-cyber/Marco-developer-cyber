@@ -1,36 +1,65 @@
-# 💫 About Me:
-I'm Mukhammadali, a passionate frontend developer from Uzbekistan. I enjoy building websites and learning game development with Unity.<br><br>🔭 I’m currently working on<br>Improving my skills in React and Unity, developing a 2D Unity game, and creating a personal portfolio.<br><br>🌱 I’m currently learning<br>Advanced React, Unity, and C#.<br><br>👯 I’m looking to collaborate on<br>Frontend projects, game development with Unity, and web apps.<br><br>🤝 I’m looking for help with<br>React best practices, Unity programming, and deploying projects.<br><br>
+# 👾 Cyberpunk ZORRO
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/marco._programmer/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muxammadali-ismoilov-ab814b358/) 
+<div align="center">
+  <h2>⚡️ Welcome to the Neon Grid, Hacker!</h2>
+  <p>I’m ZORRO — a code-slinger in this dystopian digital realm. I hack, I build, I destroy... all in the name of innovation.</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  <!-- Neon Avatar -->
+  <img src="https://i.ibb.co/1rPqWqN/cyberpunk-avatar.png" alt="Cyberpunk Avatar" width="200" style="border: 3px solid #0ff; border-radius: 50%; box-shadow: 0 0 15px #0ff;">
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marco-developer-cyber&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Marco-developer-cyber&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-developer-cyber&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+  <!-- Animated Neon Text -->
+  <div class="neon-text">
+    <h3>💾 Systems Online...</h3>
+  </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Marco-developer-cyber&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
+  <!-- Stats and Tools -->
+  <p>🔧 Tech Stack: <b>Python | JavaScript | Rust | Solidity</b></p>
+  <p>🌐 Currently Jacked In: <b>Web3 | AI | Blockchain</b></p>
+  <p>📡 Contact: <a href="mailto:zorro@neon-grid.net">zorro@neon-grid.net</a></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Marco-developer-cyber&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak">
 
----
-[![](https://visitcount.itsvg.in/api?id=Marco-developer-cyber&icon=1&color=0)](https://visitcount.itsvg.in)
+  <!-- Socials -->
+  <p>🌃 Connect in the Shadows:</p>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<style>
+  /* Neon Text Animation */
+  .neon-text h3 {
+    color: #0ff;
+    text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff;
+    animation: flicker 1.5s infinite alternate;
+  }
+
+  @keyframes flicker {
+    0%, 18%, 22%, 25%, 53%, 57%, 100% {
+      text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff;
+    }
+    20%, 24%, 55% {
+      text-shadow: none;
+    }
+  }
+
+  /* General Styling */
+  body {
+    background: linear-gradient(45deg, #1a1a3d, #0d0d1f);
+    color: #fff;
+    font-family: 'Courier New', monospace;
+  }
+
+  a {
+    color: #ff00ff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+
+  a:hover {
+    color: #0ff;
+    text-shadow: 0 0 10px #0ff;
+  }
+</style>
