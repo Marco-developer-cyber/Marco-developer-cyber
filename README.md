@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammadali</h1>
-<h3 align="center">Frontend Developer from Uzbekistan</h3>
+<h1 align="center">Hi 👋, I'm Marco</h1>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=I+love+building+modern+websites;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Always+learning+and+growing" alt="Typing SVG" />
