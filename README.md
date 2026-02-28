@@ -1,6 +1,6 @@
-### Hi, I'm a Middle Web Developer! 👋
+### Middle Web Developer 
 
-🚀 **Always Learning and Growing!** I'm constantly improving my skills, exploring new technologies, and working on exciting projects. My passion is creating beautiful and functional web applications.
+🚀 Passionate about crafting robust applications from concept to deployment. I combine technical expertise with creative problem-solving to build products that make a difference.
 
 ## 🛠️ Tech Stack
 
@@ -40,9 +40,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marco-developer-cyber&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <br/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marco-developer-cyber&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <br/><br/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marco-developer-cyber&layout=compact&langs_count=8&theme=radical"/>
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Marco-developer-cyber&theme=radical" alt="GitHub Streak" />
 </div>
 
