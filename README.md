@@ -76,10 +76,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <i>Thanks for visiting my profile! 😎</i>
-  <br/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/Marco-developer-cyber/Marco-developer-cyber/output/snake.svg" alt="Snake animation" />
-</div>
